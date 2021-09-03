@@ -1,5 +1,5 @@
 HELLO!
 <hr>
 CODING:
-<hr style="background-color:red;">
+<hr style="padding:10px;">
 SOCIAL MEDIAS:
