@@ -1,5 +1,5 @@
 HELLO!
 <hr>
 CODING:
-<hr>
+<hr style="background-color:red;">
 SOCIAL MEDIAS:
